@@ -1,2 +1,2 @@
-# desafio-conceitos-nodejs
-Primeiro desafio da GoStack.
+# Desafio-2-Conceitos-do-Node.js
+Desafio 2: Conceitos do Node.js do Bootcamp GoStack
